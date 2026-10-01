@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480">
+<rect width="1600" height="480" fill="#F3EDE3"/>
+<path d="M72 408H1528" stroke="#CBBEAC" stroke-width="2"/>
+<text x="72" y="146" font-family="Georgia" font-size="78" fill="#302B26">Md. Sadman</text>
+<text x="72" y="240" font-family="Georgia" font-size="78" fill="#302B26">Bin Masud</text>
+<text x="76" y="311" font-family="Arial" font-size="28" fill="#64574B">Software, systems &amp; experiments.</text>
+<text x="76" y="371" font-family="Arial" font-size="22" fill="#94553C">AI AGENTS  /  EMBEDDED SYSTEMS  /  INTERACTIVE WORLDS</text>
+<g fill="none" stroke="#BC7658" stroke-width="3">
+<path d="M1030 121H1202V190H1322V294H1480"/>
+<path d="M1044 308H1120V224H1202"/>
+<path d="M1322 190H1454V108"/>
+<path d="M1202 294V349H1386"/>
+</g>
+<g fill="#F3EDE3" stroke="#94553C" stroke-width="3">
+<circle cx="1030" cy="121" r="9"/><circle cx="1044" cy="308" r="9"/>
+<circle cx="1480" cy="294" r="9"/><circle cx="1454" cy="108" r="9"/>
+<circle cx="1386" cy="349" r="9"/>
+<rect x="1166" y="188" width="72" height="72" rx="4"/>
+</g>
+<rect x="1185" y="207" width="34" height="34" fill="#BC7658"/>
+</svg>
