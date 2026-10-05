@@ -51,10 +51,8 @@ An original first-person psychological fable. A building has approved your life 
 
 *One self-contained HTML file — no install, server, account or network at runtime. Automated coverage reaches all twelve endings and verifies every in-world interaction target by real camera ray; that is not a claim of a complete human playthrough.*
 
-### [Grid Protocol](https://github.com/MdSadman2004/tron-ares)
-A Three.js grid-combat game with transforming vehicles, procedural environments, and an Android WebView wrapper.
+*Also in games: [Grid Protocol](https://github.com/MdSadman2004/tron-ares) — grid-combat with transforming vehicles and an Android WebView wrapper.*
 
-**JavaScript · Three.js · Vite · Android WebView**
 
 ## Other experiments
 
