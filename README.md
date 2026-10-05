@@ -6,7 +6,7 @@
 
 I care about the space between an idea and a working system: the interface, the hardware, and the evidence that it does what it claims.
 
-[Selected work](#selected-work) · [Other experiments](#other-experiments) · [Tools](#tools-i-work-with) · [Contact](#contact)
+[Selected work](#selected-work) · [Games](#games) · [Other experiments](#other-experiments) · [Tools](#tools-i-work-with) · [Contact](#contact)
 
 ## Selected work
 
@@ -32,6 +32,24 @@ A solar-grid control project bringing together a dashboard, telemetry simulation
 **React · TypeScript · Node.js · Embedded electronics**
 
 *The repository includes simulation and design artifacts; those are not, by themselves, proof of a physically validated microgrid.*
+
+### [Grid Protocol](https://github.com/MdSadman2004/tron-ares)
+A Three.js grid-combat game with transforming vehicles, procedural environments, and an Android WebView wrapper.
+
+**JavaScript · Three.js · Vite · Android WebView**
+
+## Games
+
+### [Sadman's Parable](https://github.com/MdSadman2004/sadmans-parable)
+An original first-person psychological fable. A building has approved your life before you have lived it, and its file on you is older than you are. Sixteen spaces, twelve endings, and a story assembled from what the person before you left behind.
+
+**JavaScript · Three.js · WebGL · esbuild**
+
+[Play in browser](https://mdsadman2004.github.io/sadmans-parable/) · [Source](https://github.com/MdSadman2004/sadmans-parable) · [Download](https://github.com/MdSadman2004/sadmans-parable/releases/latest)
+
+[![Sadman's Parable title screen](https://raw.githubusercontent.com/MdSadman2004/sadmans-parable/main/screenshots/title.jpg)](https://mdsadman2004.github.io/sadmans-parable/)
+
+*One self-contained HTML file — no install, server, account or network at runtime. Automated coverage reaches all twelve endings and verifies every in-world interaction target by real camera ray; that is not a claim of a complete human playthrough.*
 
 ### [Grid Protocol](https://github.com/MdSadman2004/tron-ares)
 A Three.js grid-combat game with transforming vehicles, procedural environments, and an Android WebView wrapper.
