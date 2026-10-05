@@ -1,0 +1,29 @@
+{
+  "kind": "source-guide",
+  "source_head": "1f3a75c3df1403ae82f05268fd22688438272634",
+  "source_tree": "2c1c6d1614170baf49ca2a76917d7ef871015e32",
+  "source_repository": "https://github.com/MdSadman2004/MdSadman2004",
+  "nodes": [
+    {
+      "label": "Project directory",
+      "path": "README.md",
+      "detail": "Organized links to public project repositories"
+    },
+    {
+      "label": "Android evidence",
+      "path": "assets/atlas-preview.png",
+      "detail": "Existing app-preview asset"
+    },
+    {
+      "label": "Visual identity",
+      "path": "assets/profile-header.svg",
+      "detail": "Existing profile-header vector source"
+    }
+  ],
+  "caption": "Source guide drawn from repository files; not a runtime screenshot or fresh benchmark.",
+  "generated_by": "render_guides.py",
+  "image_dimensions": [
+    1600,
+    960
+  ]
+}
